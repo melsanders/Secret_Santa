@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+* {
+	font-family: Helvetica;
+	color: red;
+}
+html { 
+  background: url(img/wallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.A {
+	height: 10px;
+	width: auto;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
